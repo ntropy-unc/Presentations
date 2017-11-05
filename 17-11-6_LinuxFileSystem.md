@@ -4,7 +4,7 @@ Shell prompt format
 username@hostname:current_directory
 ```
 * $ -user prompt
-* # -root prompt  
+* \# -root prompt  
 type 'man _command_' to see the manuscript of how to use almost any command/program  
 type 'man hier' for a description of every system directory
 
