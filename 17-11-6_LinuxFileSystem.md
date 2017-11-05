@@ -6,6 +6,7 @@ username@hostname:current_directory
 * $ -user prompt
 * \# -root prompt  
 type 'man _command_' to see the manuscript of how to use almost any command/program  
+type 'whatis _command_' for a concise description of what the command does.
 type 'man hier' for a description of every system directory
 
 ## Files
@@ -40,6 +41,10 @@ Numerical Representations
 * 2: write permission
 * 1: execute permission
 
+### Resources
+https://distrowatch.com/
+https://en.wikipedia.org/wiki/Usage_share_of_operating_systems
+
 ### All commands used in the order they were presented
 * **Note: ~ is your home directory**
 *    **tab key does autocomplete**
@@ -51,3 +56,4 @@ Numerical Representations
 * echo
 * cat
 * chmod + -
+* exit
