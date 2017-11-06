@@ -1,4 +1,4 @@
-# Linux ~intro to filesystem and bash
+# Linux ~ intro to the linux filesystem and bash
 Shell prompt format
 ```
 username@hostname:current_directory
@@ -11,12 +11,13 @@ type 'man hier' for a description of every system directory
 
 ## Files
 Not case sensitive  
-Use **file** to get infos
-
+Use **file** command to see what kind of file
 
 #### Hidden Files
-Start with a dot 
-
+aka dot files
+Start with a dot  
+ctrl-h -to see these graphically  
+ls -a  -to see these in the terminal  
 
 ## Permissions 
 Each character represent a different permission: 
@@ -49,7 +50,7 @@ https://linuxconfig.org/filesystem-basics
 https://www.youtube.com/watch?v=HIXzJ3Rz9po
 
 ### All commands used in the order they were presented
-* **Note: ~ is your home directory**
+* **Note: ~ represents the home directory**
 *    **tab key does autocomplete**
 * pwd
 * ls -a -l
