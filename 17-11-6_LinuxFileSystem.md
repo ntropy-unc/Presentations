@@ -41,9 +41,10 @@ Numerical Representations
 * 2: write permission
 * 1: execute permission
 
-### Resources
+### Resources  
 https://distrowatch.com/
 https://en.wikipedia.org/wiki/Usage_share_of_operating_systems
+https://linuxjourney.com/
 
 ### All commands used in the order they were presented
 * **Note: ~ is your home directory**
