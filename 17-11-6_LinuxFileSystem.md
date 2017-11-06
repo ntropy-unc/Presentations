@@ -42,9 +42,9 @@ Numerical Representations
 * 1: execute permission
 
 ### Resources  
-https://distrowatch.com/
-https://en.wikipedia.org/wiki/Usage_share_of_operating_systems
-https://linuxjourney.com/
+https://distrowatch.com/  
+https://en.wikipedia.org/wiki/Usage_share_of_operating_systems  
+https://linuxjourney.com/  
 
 ### All commands used in the order they were presented
 * **Note: ~ is your home directory**
