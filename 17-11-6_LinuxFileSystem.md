@@ -45,6 +45,8 @@ Numerical Representations
 https://distrowatch.com/  
 https://en.wikipedia.org/wiki/Usage_share_of_operating_systems  
 https://linuxjourney.com/  
+https://linuxconfig.org/filesystem-basics  
+https://www.youtube.com/watch?v=HIXzJ3Rz9po
 
 ### All commands used in the order they were presented
 * **Note: ~ is your home directory**
